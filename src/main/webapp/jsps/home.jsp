@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Tari's Web Application Project - A Leader in Software Delivery and DevOps Automation</h1>
 <h2 align="center"> Welcome to Tari's Domain.......I have a DevOps E Degree with Linux and AWS ready to be deployed. 
-	Landmark Technology - Taris java web application project. 
+	Landmark Technology - Tari's java web application project. 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM ON MY COVENANT HIGHWAY. Production</h2>
 <hr>
