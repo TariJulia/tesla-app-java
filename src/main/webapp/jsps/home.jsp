@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
-	Landmark Technology Tesla web application project2. 
+<h1 align="center">Tari's Web Application Project - A Leader in Software Delivery and DevOps Automation</h1>
+<h2 align="center"> Welcome to Tari's Domain.......I have a DevOps E Degree with Linux and AWS ready to be deployed. 
+	Landmark Technology - Taris java web application project. 
 	</h2>
-	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
+	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM ON MY COVENANT HIGHWAY. Production</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -21,11 +21,11 @@
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Brampton, Canada
+		+1 647 617 7955,
+		juliaockiya@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:juliaockiya@gmail.com">Mail to Tari O - Technologies</a>
 	</span>
 </div>
 <hr>
