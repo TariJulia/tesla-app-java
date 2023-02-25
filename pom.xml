@@ -95,19 +95,19 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Releases Nexus Repository</name>
-	      <url>http://172.31.18.113:8081/repository/tesla-web-releases/</url> 
+	      <name>Tesla Releases Nexus Repository</name>
+	      <url>http://54.91.159.18:8081/repository/tesla-main-fe/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot Nexus Repository </name>
-	      <url>http://172.31.18.113:8081/repository/tesla-fe-webapp-snapshots/</url>
+	      <name>Tesla Snapshot Repository </name>
+	      <url>http://54.91.159.18:8081/repository/tesla-main-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>tesla-main</finalName>
 		
 		<plugins>
 			<plugin>
